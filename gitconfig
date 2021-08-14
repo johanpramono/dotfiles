@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = jpramono01@gmail.com
+	name = Johan Pramono
